@@ -17,5 +17,5 @@ While my foundation includes experience with enterprise low-code platforms, my c
 - Open to connecting with tech professionals and exploring international opportunities.
 
 ### 📫 Let's connect!
-- [LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
-- Email: SEU_EMAIL_AQUI@gmail.com
+- [LinkedIn](www.linkedin.com/in/thiagomenezes-dev)
+- Email: tmenezes71206@gmail.com
