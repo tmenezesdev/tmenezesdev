@@ -1,12 +1,16 @@
-# 👋 Oi, eu sou o Thiago Menezes!
+# Hi there, I'm Thiago Menezes! 👋
 
-* 💻 **Desenvolvedor de Software na General Motors**, criando soluções internas para equipes de engenharia.
-* 🚀 Atualmente focado em **Frontend (React & Next.js)** e integrações com **Node.js**.
-* 📫 Como me encontrar: [Seu e-mail aqui]
+I am a **Software Development Apprentice at General Motors**, specializing in building custom internal applications for engineering teams. My focus is on transforming complex operational challenges into intuitive digital solutions.
+
+### 🚀 About Me
+- 🛠️ **Current Focus:** Modernizing internal workflows using **React** and **Next.js**.
+- 🤝 **Collaboration:** Working directly with multi-disciplinary engineering teams to gather requirements and deliver high-impact tools.
+- 🎓 **Education:** Pursuing a degree in **Systems Development** and graduated in **Web Informatics**.
+- 🇨🇦 **Goal:** Actively improving my technical stack and English proficiency for international opportunities.
 
 ---
 
-### 🛠️ Minhas Tecnologias
+### 🛠️ Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -17,12 +21,15 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmenezesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmenezesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmenezesdev&layout=compact&theme=dark)
 
 ---
 
-*“Transformando problemas de engenharia em soluções digitais.”*
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomenezes-dev/) 
+
+*"Solving engineering problems with clean code and modern architecture."*
