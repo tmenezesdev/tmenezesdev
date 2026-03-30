@@ -23,10 +23,6 @@ I am a **Software Development Apprentice at General Motors**, specializing in bu
 
 ### 📊 GitHub Stats
 
-![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmenezesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmenezesdev&layout=compact&theme=dark)
-
 ![snake](https://raw.githubusercontent.com/tmenezesdev/tmenezesdev/output/github-contribution-grid-snake-dark.svg)
 
 ---
