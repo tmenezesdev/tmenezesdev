@@ -27,6 +27,9 @@ I am a **Software Development Apprentice at General Motors**, specializing in bu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmenezesdev&layout=compact&theme=dark)
 
+
+![snake svg](https://raw.githubusercontent.com/tmenezesdev/tmenezesdev/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📫 Let's Connect
