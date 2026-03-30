@@ -1,4 +1,4 @@
-# Hi there, I'm Thiago! 👋
+c# Hi there, I'm Thiago! 👋
 
 ### Software Developer | Building Internal Tools & Optimizing Workflows
 
@@ -17,5 +17,5 @@ While my foundation includes experience with enterprise low-code platforms, my c
 - Open to connecting with tech professionals and exploring international opportunities.
 
 ### 📫 Let's connect!
-- [LinkedIn](www.linkedin.com/in/thiagomenezes-dev)
+- [LinkedIn](https://www.linkedin.com/in/thiagomenezes-dev/)
 - Email: tmenezes71206@gmail.com
