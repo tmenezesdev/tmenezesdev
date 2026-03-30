@@ -1,21 +1,28 @@
-c# Hi there, I'm Thiago! 👋
+# 👋 Oi, eu sou o Thiago Menezes!
 
-### Software Developer | Building Internal Tools & Optimizing Workflows
+* 💻 **Desenvolvedor de Software na General Motors**, criando soluções internas para equipes de engenharia.
+* 🚀 Atualmente focado em **Frontend (React & Next.js)** e integrações com **Node.js**.
+* 📫 Como me encontrar: [Seu e-mail aqui]
 
-I am a developer focused on creating custom, high-performance software solutions that solve real-world operational challenges. Currently, I work closely with multidisciplinary engineering teams to understand their bottlenecks and build robust internal applications that optimize their daily workflows.
+---
 
-While my foundation includes experience with enterprise low-code platforms, my core focus and passion lie in developing scalable front-end and full-stack web applications.
+### 🛠️ Minhas Tecnologias
 
-### 🛠️ Tech Stack & Tools
-- **Front-end:** React.js, Next.js, HTML5, CSS3, JavaScript
-- **Back-end & APIs:** Node.js, Express.js
-- **Concepts:** UI/UX principles, API Integration, Agile Workflows
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-0078D4?style=for-the-badge&logo=microsoft-power-apps&logoColor=white)
 
-### 🚀 What I'm focusing on
-- Transitioning complex business logic into efficient Next.js environments.
-- Continuously improving my problem-solving skills and clean code practices.
-- Open to connecting with tech professionals and exploring international opportunities.
+---
 
-### 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/thiagomenezes-dev/)
-- Email: tmenezes71206@gmail.com
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmenezesdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmenezesdev&layout=compact&theme=dark)
+
+---
+
+*“Transformando problemas de engenharia em soluções digitais.”*
